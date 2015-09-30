@@ -1,5 +1,5 @@
 ﻿How to use. First 
-1. Save QuestionLibrary.jar to a directory named lib/ in your project. If you create the directory and add the file through the file system, refresh your project in Eclipse so the changes are reflected in your workspace.
+1.   Save QuestionLibrary.jar to a directory named lib/ in your project. If you create the directory and add the file through the file system, refresh your project in Eclipse so the changes are reflected in your workspace.
 3.   Right click the project and select Build Path > Configure Build Path. A dialog box opens.
 4.   In the resulting dialog box, open the Libraries tab.
 5.   Click Add JARs .
