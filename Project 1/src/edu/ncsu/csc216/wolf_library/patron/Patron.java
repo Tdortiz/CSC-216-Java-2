@@ -51,6 +51,7 @@ public class Patron extends User{
 		checkedOut = new MultiPurposeList();
 		reserveQueue = new MultiPurposeList();
 	}
+	
 	/**
 	 * Returns a string of books in the reserve queue in the order that they were reserved. 
 	 * Books are shown by info and successive books are separated by newlines,

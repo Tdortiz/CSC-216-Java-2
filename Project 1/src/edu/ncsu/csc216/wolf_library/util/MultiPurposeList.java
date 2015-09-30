@@ -13,8 +13,10 @@ import edu.ncsu.csc216.wolf_library.inventory.Book;
  * @author Thomas Ortiz, Corey Colberg
  */
 public class MultiPurposeList {
-
+	
+	/** ArrayList of books */
 	private ArrayList<Book> list;
+	/** Current Index */
 	public int index; 
 	
 	/** 

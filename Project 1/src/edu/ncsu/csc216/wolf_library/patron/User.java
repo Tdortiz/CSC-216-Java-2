@@ -1,5 +1,10 @@
 package edu.ncsu.csc216.wolf_library.patron;
 
+/**
+ * Represents a User of the Wolf Library.
+ * @author Thomas Ortiz, Corey Colberg
+ *
+ */
 public abstract class User {
 	/** Username of user */
 	private String id;

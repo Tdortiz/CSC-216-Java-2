@@ -1,7 +1,6 @@
 package edu.ncsu.csc216.wolf_library.inventory;
 import java.io.*;
 import java.util.Scanner;
-
 import edu.ncsu.csc216.wolf_library.util.Constants;
 import edu.ncsu.csc216.wolf_library.util.MultiPurposeList;
 
@@ -107,6 +106,10 @@ public class BookDB {
 		books.addItem(i, b);
 	}
 	
+	/**
+	 * Returns the MultiPurposeList representing all library books.
+	 * @return arrayList of library books.
+	 */
 	public MultiPurposeList getList(){
 		return this.books;
 	}
