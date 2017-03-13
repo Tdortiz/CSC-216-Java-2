@@ -1,5 +1,5 @@
-﻿Thomas Ortiz - 200052864
-Corey Colberg - 200047978
+Thomas Ortiz
+Corey Colberg
 
 
 You are able to run the program with either including a argument when launching the GUI - WolfLibraryGUI.java - 
